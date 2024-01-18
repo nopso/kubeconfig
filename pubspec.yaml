@@ -2,6 +2,8 @@ name: kubeconfig_cli
 description: Kubeconfig utility CLI. Validate, convert, or merge kubeconfig files.
 version: 1.0.0+1
 repository: https://github.com/fatihsever/kubeconfig
+issue_tracker: https://github.com/fatihsever/kubeconfig/issues
+documentation: https://kubeconfig.pages.dev
 publish_to: none
 
 environment:
