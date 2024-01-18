@@ -1,7 +1,7 @@
-.yarn/
-.next/
+.*
+!/.gitignore
 node_modules/
-dist/
+out/
 
 # Logs
 npm-debug.log*
@@ -9,3 +9,4 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 .pnp.*
+
