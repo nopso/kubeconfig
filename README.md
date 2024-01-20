@@ -110,8 +110,8 @@ Run "kubeconfig help <command>" for more information about a command.
 [kubeconfig_link]: https://fatihsever.github.io/kubeconfig/
 [ci_badge]: https://github.com/fatihsever/kubeconfig/actions/workflows/ci.yml/badge.svg?branch=main
 [ci_link]: https://github.com/fatihsever/kubeconfig/actions/workflows/ci.yml
-[coverage_badge]: https://codecov.io/github/fatihsever/kubeconfig/badges/coverage.svg?branch=main
-[coverage_link]: https://codecov.io/github/fatihsever/kubeconfig/badges?branch=master
+[coverage_badge]: https://codecov.io/github/fatihsever/kubeconfig/graph/badge.svg?token=7SYUSR452C
+[coverage_link]: https://codecov.io/github/fatihsever/kubeconfig
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
 [fatihsever_link]: https://fatihsever.com/
