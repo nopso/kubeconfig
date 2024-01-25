@@ -7,7 +7,7 @@
 ---
 `kubeconfig` is a command-line tool that simplifies the management of kubeconfig files. It offers a bunch of features, such as validating, merging, and converting kubeconfig files, to ensure that you have a consistent and optimized configuration for accessing multiple Kubernetes clusters.
 
-Developed with 💙 by [Fatih sever][fatihsever_link]
+Developed with 💙 by [Fatih Sever][fatihsever_link]
 
 ## Features
 - **Validate**: Check the syntax and structure of kubeconfig files for common errors or inconsistencies.
