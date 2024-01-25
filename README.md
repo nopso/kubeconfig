@@ -107,7 +107,7 @@ Run "kubeconfig help <command>" for more information about a command.
 ```
 
 [kubeconfig_logo]: assets/logo.svg
-[kubeconfig_link]: https://fatihsever.github.io/kubeconfig/
+[kubeconfig_link]: https://kubeconfig.pages.dev/
 [ci_badge]: https://github.com/fatihsever/kubeconfig/actions/workflows/ci.yml/badge.svg?branch=main
 [ci_link]: https://github.com/fatihsever/kubeconfig/actions/workflows/ci.yml
 [coverage_badge]: https://codecov.io/github/fatihsever/kubeconfig/graph/badge.svg?token=7SYUSR452C
@@ -115,7 +115,7 @@ Run "kubeconfig help <command>" for more information about a command.
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
 [fatihsever_link]: https://fatihsever.com/
-[docs_link]: https://fatihsever.github.io/kubeconfig/
+[docs_link]: https://kubeconfig.pages.dev/
 [releases_page]: https://github.com/fatihsever/kubeconfig/releases/latest
 [Homebrew]: https://brew.sh
 [MacPorts]: https://www.macports.org
