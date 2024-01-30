@@ -13,7 +13,7 @@ dependencies:
   args: ^2.4.2
   cli_completion: ^0.4.0
   file: ^7.0.0
-  kubeconfig: ^1.0.0+1
+  kubeconfig: ^1.0.1
   mason_logger: ^0.2.11
   meta: ^1.11.0
   pub_updater: ^0.4.0
