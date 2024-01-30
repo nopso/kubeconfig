@@ -3,7 +3,7 @@
 // ignore_for_file: public_member_api_docs, constant_identifier_names, avoid_classes_with_only_static_members
 
 mixin Pubspec {
-  static final buildDate = DateTime.utc(2024, 1, 16, 10, 10, 32);
+  static final buildDate = DateTime.utc(2024, 1, 30, 11, 4, 14);
 
   static const name = 'kubeconfig_cli';
 
@@ -28,7 +28,11 @@ mixin Pubspec {
 
   static const versionIsPreRelease = false;
 
-  static const repository = 'https://github.com/fatihsever/kubeconfig';
+  static const repository = 'https://github.com/nopso/kubeconfig';
+
+  static const issue_tracker = 'https://github.com/nopso/kubeconfig/issues';
+
+  static const documentation = 'https://kubeconfig.nopso.io';
 
   static const publish_to = 'none';
 
@@ -40,7 +44,7 @@ mixin Pubspec {
     'args': '^2.4.2',
     'cli_completion': '^0.4.0',
     'file': '^7.0.0',
-    'kubeconfig': '^1.0.0+1',
+    'kubeconfig': '^1.0.1',
     'mason_logger': '^0.2.11',
     'meta': '^1.11.0',
     'pub_updater': '^0.4.0',
